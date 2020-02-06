@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment1-2</string>
+    <string name="Choose_btn">Choose</string>
+    <string-array name="VoteList">
+        <item>Kiran</item>
+        <item>Febin</item>
+    </string-array>
+</resources>
